@@ -73,8 +73,3 @@ This places marks in:
 
 * This implementation uses quantum circuits as a representation, not full quantum gameplay
 * No superposition or entanglement yet
-* Game logic is still fundamentally classical
-If you want, I can next:
-
-* Turn this into a **portfolio-ready GitHub repo (with badges, screenshots, and demos)**
-* Or upgrade the README to something that helps you **attract freelance/tech opportunities**
